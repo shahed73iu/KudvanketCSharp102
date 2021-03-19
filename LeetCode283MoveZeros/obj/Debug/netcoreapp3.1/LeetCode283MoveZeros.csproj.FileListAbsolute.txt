@@ -1,0 +1,13 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\bin\Debug\netcoreapp3.1\LeetCode283MoveZeros.exe
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\bin\Debug\netcoreapp3.1\LeetCode283MoveZeros.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\bin\Debug\netcoreapp3.1\LeetCode283MoveZeros.runtimeconfig.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\bin\Debug\netcoreapp3.1\LeetCode283MoveZeros.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\bin\Debug\netcoreapp3.1\LeetCode283MoveZeros.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\bin\Debug\netcoreapp3.1\LeetCode283MoveZeros.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\obj\Debug\netcoreapp3.1\LeetCode283MoveZeros.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\obj\Debug\netcoreapp3.1\LeetCode283MoveZeros.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\obj\Debug\netcoreapp3.1\LeetCode283MoveZeros.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\obj\Debug\netcoreapp3.1\LeetCode283MoveZeros.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\obj\Debug\netcoreapp3.1\LeetCode283MoveZeros.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\obj\Debug\netcoreapp3.1\LeetCode283MoveZeros.genruntimeconfig.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\LeetCode283MoveZeros\obj\Debug\netcoreapp3.1\LeetCode283MoveZeros.csprojAssemblyReference.cache

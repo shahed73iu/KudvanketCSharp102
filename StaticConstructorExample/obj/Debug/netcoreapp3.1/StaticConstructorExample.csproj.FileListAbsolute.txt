@@ -1,0 +1,12 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\bin\Debug\netcoreapp3.1\StaticConstructorExample.exe
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\bin\Debug\netcoreapp3.1\StaticConstructorExample.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\bin\Debug\netcoreapp3.1\StaticConstructorExample.runtimeconfig.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\bin\Debug\netcoreapp3.1\StaticConstructorExample.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\bin\Debug\netcoreapp3.1\StaticConstructorExample.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\bin\Debug\netcoreapp3.1\StaticConstructorExample.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\obj\Debug\netcoreapp3.1\StaticConstructorExample.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\obj\Debug\netcoreapp3.1\StaticConstructorExample.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\obj\Debug\netcoreapp3.1\StaticConstructorExample.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\obj\Debug\netcoreapp3.1\StaticConstructorExample.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\obj\Debug\netcoreapp3.1\StaticConstructorExample.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\StaticConstructorExample\obj\Debug\netcoreapp3.1\StaticConstructorExample.genruntimeconfig.cache

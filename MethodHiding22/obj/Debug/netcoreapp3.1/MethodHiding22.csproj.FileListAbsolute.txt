@@ -1,0 +1,12 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\bin\Debug\netcoreapp3.1\MethodHiding22.exe
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\bin\Debug\netcoreapp3.1\MethodHiding22.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\bin\Debug\netcoreapp3.1\MethodHiding22.runtimeconfig.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\bin\Debug\netcoreapp3.1\MethodHiding22.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\bin\Debug\netcoreapp3.1\MethodHiding22.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\bin\Debug\netcoreapp3.1\MethodHiding22.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\obj\Debug\netcoreapp3.1\MethodHiding22.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\obj\Debug\netcoreapp3.1\MethodHiding22.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\obj\Debug\netcoreapp3.1\MethodHiding22.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\obj\Debug\netcoreapp3.1\MethodHiding22.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\obj\Debug\netcoreapp3.1\MethodHiding22.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\MethodHiding22\obj\Debug\netcoreapp3.1\MethodHiding22.genruntimeconfig.cache

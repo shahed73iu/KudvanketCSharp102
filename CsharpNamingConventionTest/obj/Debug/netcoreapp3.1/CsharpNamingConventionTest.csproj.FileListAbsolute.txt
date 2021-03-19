@@ -1,0 +1,12 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\bin\Debug\netcoreapp3.1\CsharpNamingConventionTest.exe
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\bin\Debug\netcoreapp3.1\CsharpNamingConventionTest.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\bin\Debug\netcoreapp3.1\CsharpNamingConventionTest.runtimeconfig.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\bin\Debug\netcoreapp3.1\CsharpNamingConventionTest.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\bin\Debug\netcoreapp3.1\CsharpNamingConventionTest.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\bin\Debug\netcoreapp3.1\CsharpNamingConventionTest.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\obj\Debug\netcoreapp3.1\CsharpNamingConventionTest.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\obj\Debug\netcoreapp3.1\CsharpNamingConventionTest.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\obj\Debug\netcoreapp3.1\CsharpNamingConventionTest.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\obj\Debug\netcoreapp3.1\CsharpNamingConventionTest.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\obj\Debug\netcoreapp3.1\CsharpNamingConventionTest.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CsharpNamingConventionTest\obj\Debug\netcoreapp3.1\CsharpNamingConventionTest.genruntimeconfig.cache

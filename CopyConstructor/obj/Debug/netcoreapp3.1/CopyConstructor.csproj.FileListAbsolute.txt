@@ -1,0 +1,12 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.exe
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.runtimeconfig.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.genruntimeconfig.cache

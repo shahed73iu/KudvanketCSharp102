@@ -1,0 +1,13 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\bin\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.exe
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\bin\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\bin\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.runtimeconfig.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\bin\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\bin\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\bin\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\obj\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.csprojAssemblyReference.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\obj\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\obj\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\obj\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\obj\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\obj\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\PracticeMyself  BaseConstructorInitialize\obj\Debug\netcoreapp3.1\PracticeMyself  BaseConstructorInitialize.genruntimeconfig.cache

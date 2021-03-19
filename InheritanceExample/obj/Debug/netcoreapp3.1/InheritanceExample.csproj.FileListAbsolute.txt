@@ -1,0 +1,12 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.exe
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.runtimeconfig.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.genruntimeconfig.cache

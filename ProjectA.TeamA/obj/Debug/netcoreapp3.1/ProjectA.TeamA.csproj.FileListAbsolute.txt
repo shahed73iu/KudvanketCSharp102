@@ -1,0 +1,8 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\ProjectA.TeamA\bin\Debug\netcoreapp3.1\ProjectA.TeamA.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\ProjectA.TeamA\obj\Debug\netcoreapp3.1\ProjectA.TeamA.pdb

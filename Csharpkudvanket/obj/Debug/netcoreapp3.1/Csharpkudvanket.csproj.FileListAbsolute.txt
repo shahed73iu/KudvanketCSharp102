@@ -1,0 +1,13 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\bin\Debug\netcoreapp3.1\Csharpkudvanket.exe
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\bin\Debug\netcoreapp3.1\Csharpkudvanket.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\bin\Debug\netcoreapp3.1\Csharpkudvanket.runtimeconfig.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\bin\Debug\netcoreapp3.1\Csharpkudvanket.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\bin\Debug\netcoreapp3.1\Csharpkudvanket.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\bin\Debug\netcoreapp3.1\Csharpkudvanket.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\obj\Debug\netcoreapp3.1\Csharpkudvanket.csprojAssemblyReference.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\obj\Debug\netcoreapp3.1\Csharpkudvanket.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\obj\Debug\netcoreapp3.1\Csharpkudvanket.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\obj\Debug\netcoreapp3.1\Csharpkudvanket.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\obj\Debug\netcoreapp3.1\Csharpkudvanket.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\obj\Debug\netcoreapp3.1\Csharpkudvanket.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\Csharpkudvanket\obj\Debug\netcoreapp3.1\Csharpkudvanket.genruntimeconfig.cache

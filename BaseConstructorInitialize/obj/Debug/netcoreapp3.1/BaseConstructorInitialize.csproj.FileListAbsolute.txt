@@ -1,0 +1,13 @@
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\bin\Debug\netcoreapp3.1\BaseConstructorInitialize.exe
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\bin\Debug\netcoreapp3.1\BaseConstructorInitialize.deps.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\bin\Debug\netcoreapp3.1\BaseConstructorInitialize.runtimeconfig.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\bin\Debug\netcoreapp3.1\BaseConstructorInitialize.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\bin\Debug\netcoreapp3.1\BaseConstructorInitialize.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\bin\Debug\netcoreapp3.1\BaseConstructorInitialize.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\obj\Debug\netcoreapp3.1\BaseConstructorInitialize.csprojAssemblyReference.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\obj\Debug\netcoreapp3.1\BaseConstructorInitialize.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\obj\Debug\netcoreapp3.1\BaseConstructorInitialize.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\obj\Debug\netcoreapp3.1\BaseConstructorInitialize.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\obj\Debug\netcoreapp3.1\BaseConstructorInitialize.dll
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\obj\Debug\netcoreapp3.1\BaseConstructorInitialize.pdb
+C:\Users\SHAHED\source\repos\Csharpkudvanket\BaseConstructorInitialize\obj\Debug\netcoreapp3.1\BaseConstructorInitialize.genruntimeconfig.cache
