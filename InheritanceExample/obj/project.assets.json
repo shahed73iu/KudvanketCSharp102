@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\InheritanceExample\\InheritanceExample.csproj",
+      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\InheritanceExample\\InheritanceExample.csproj",
       "projectName": "InheritanceExample",
-      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\InheritanceExample\\InheritanceExample.csproj",
+      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\InheritanceExample\\InheritanceExample.csproj",
       "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\InheritanceExample\\obj\\",
+      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\InheritanceExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",

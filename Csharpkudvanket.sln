@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceExample", "Inher
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode283MoveZeros", "LeetCode283MoveZeros\LeetCode283MoveZeros.csproj", "{CE9AB301-835C-470F-B3EE-53DC1AA53DC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHiding22", "MethodHiding22\MethodHiding22.csproj", "{A4EEEFF0-F25F-4520-89A5-CCD3FDB228DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodHiding22", "MethodHiding22\MethodHiding22.csproj", "{A4EEEFF0-F25F-4520-89A5-CCD3FDB228DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism23", "Polymorphism23\Polymorphism23.csproj", "{46C67133-44BD-4D9D-B636-2805E6BF0CE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{A4EEEFF0-F25F-4520-89A5-CCD3FDB228DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4EEEFF0-F25F-4520-89A5-CCD3FDB228DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4EEEFF0-F25F-4520-89A5-CCD3FDB228DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C67133-44BD-4D9D-B636-2805E6BF0CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C67133-44BD-4D9D-B636-2805E6BF0CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C67133-44BD-4D9D-B636-2805E6BF0CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C67133-44BD-4D9D-B636-2805E6BF0CE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

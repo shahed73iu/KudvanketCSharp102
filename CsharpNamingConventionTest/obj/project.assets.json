@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\CsharpNamingConventionTest\\CsharpNamingConventionTest.csproj",
+      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\CsharpNamingConventionTest\\CsharpNamingConventionTest.csproj",
       "projectName": "CsharpNamingConventionTest",
-      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\CsharpNamingConventionTest\\CsharpNamingConventionTest.csproj",
+      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\CsharpNamingConventionTest\\CsharpNamingConventionTest.csproj",
       "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\CsharpNamingConventionTest\\obj\\",
+      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\CsharpNamingConventionTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",

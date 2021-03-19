@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\MethodHiding22\\MethodHiding22.csproj",
+      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\MethodHiding22\\MethodHiding22.csproj",
       "projectName": "MethodHiding22",
-      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\MethodHiding22\\MethodHiding22.csproj",
+      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\MethodHiding22\\MethodHiding22.csproj",
       "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\MethodHiding22\\obj\\",
+      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\MethodHiding22\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",

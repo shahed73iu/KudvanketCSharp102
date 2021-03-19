@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode283MoveZeros\\LeetCode283MoveZeros.csproj": {}
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode283MoveZeros\\LeetCode283MoveZeros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode283MoveZeros\\LeetCode283MoveZeros.csproj": {
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode283MoveZeros\\LeetCode283MoveZeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode283MoveZeros\\LeetCode283MoveZeros.csproj",
+        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode283MoveZeros\\LeetCode283MoveZeros.csproj",
         "projectName": "LeetCode283MoveZeros",
-        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode283MoveZeros\\LeetCode283MoveZeros.csproj",
+        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode283MoveZeros\\LeetCode283MoveZeros.csproj",
         "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode283MoveZeros\\obj\\",
+        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode283MoveZeros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",

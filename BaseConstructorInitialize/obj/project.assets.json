@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\BaseConstructorInitialize\\BaseConstructorInitialize.csproj",
+      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\BaseConstructorInitialize\\BaseConstructorInitialize.csproj",
       "projectName": "BaseConstructorInitialize",
-      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\BaseConstructorInitialize\\BaseConstructorInitialize.csproj",
+      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\BaseConstructorInitialize\\BaseConstructorInitialize.csproj",
       "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\BaseConstructorInitialize\\obj\\",
+      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\BaseConstructorInitialize\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",

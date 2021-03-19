@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\NameSpace\\NameSpace.csproj": {}
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\NameSpace\\NameSpace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\NameSpace\\NameSpace.csproj": {
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\NameSpace\\NameSpace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\NameSpace\\NameSpace.csproj",
+        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\NameSpace\\NameSpace.csproj",
         "projectName": "NameSpace",
-        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\NameSpace\\NameSpace.csproj",
+        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\NameSpace\\NameSpace.csproj",
         "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\NameSpace\\obj\\",
+        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\NameSpace\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
-                "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamA\\ProjectA.TeamA.csproj"
+              "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
+                "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamA\\ProjectA.TeamA.csproj"
               },
-              "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
-                "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
+              "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+                "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamA\\ProjectA.TeamA.csproj",
+        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamA\\ProjectA.TeamA.csproj",
         "projectName": "ProjectA.TeamA",
-        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamA\\ProjectA.TeamA.csproj",
+        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamA\\ProjectA.TeamA.csproj",
         "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamA\\obj\\",
+        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,14 +115,14 @@
         }
       }
     },
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamB\\ProjectA.TeamB.csproj",
+        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamB\\ProjectA.TeamB.csproj",
         "projectName": "ProjectA.TeamB",
-        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamB\\ProjectA.TeamB.csproj",
+        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamB\\ProjectA.TeamB.csproj",
         "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamB\\obj\\",
+        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",

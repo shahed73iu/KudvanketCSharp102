@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\UsingConstructorFullImplementations\\UsingConstructorFullImplementations.csproj",
+      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\UsingConstructorFullImplementations\\UsingConstructorFullImplementations.csproj",
       "projectName": "UsingConstructorFullImplementations",
-      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\UsingConstructorFullImplementations\\UsingConstructorFullImplementations.csproj",
+      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\UsingConstructorFullImplementations\\UsingConstructorFullImplementations.csproj",
       "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\UsingConstructorFullImplementations\\obj\\",
+      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\UsingConstructorFullImplementations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",

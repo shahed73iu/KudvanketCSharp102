@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode26__RemoveDuplicatesfromSortedArray\\LeetCode26__RemoveDuplicatesfromSortedArray.csproj": {}
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode26__RemoveDuplicatesfromSortedArray\\LeetCode26__RemoveDuplicatesfromSortedArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode26__RemoveDuplicatesfromSortedArray\\LeetCode26__RemoveDuplicatesfromSortedArray.csproj": {
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode26__RemoveDuplicatesfromSortedArray\\LeetCode26__RemoveDuplicatesfromSortedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode26__RemoveDuplicatesfromSortedArray\\LeetCode26__RemoveDuplicatesfromSortedArray.csproj",
+        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode26__RemoveDuplicatesfromSortedArray\\LeetCode26__RemoveDuplicatesfromSortedArray.csproj",
         "projectName": "LeetCode26__RemoveDuplicatesfromSortedArray",
-        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode26__RemoveDuplicatesfromSortedArray\\LeetCode26__RemoveDuplicatesfromSortedArray.csproj",
+        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode26__RemoveDuplicatesfromSortedArray\\LeetCode26__RemoveDuplicatesfromSortedArray.csproj",
         "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\LeetCode26__RemoveDuplicatesfromSortedArray\\obj\\",
+        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\LeetCode26__RemoveDuplicatesfromSortedArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",

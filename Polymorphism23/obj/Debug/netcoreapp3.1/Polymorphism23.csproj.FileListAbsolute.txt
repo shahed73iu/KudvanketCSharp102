@@ -1,0 +1,12 @@
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\bin\Debug\netcoreapp3.1\Polymorphism23.exe
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\bin\Debug\netcoreapp3.1\Polymorphism23.deps.json
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\bin\Debug\netcoreapp3.1\Polymorphism23.runtimeconfig.json
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\bin\Debug\netcoreapp3.1\Polymorphism23.runtimeconfig.dev.json
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\bin\Debug\netcoreapp3.1\Polymorphism23.dll
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\bin\Debug\netcoreapp3.1\Polymorphism23.pdb
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\obj\Debug\netcoreapp3.1\Polymorphism23.AssemblyInfoInputs.cache
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\obj\Debug\netcoreapp3.1\Polymorphism23.AssemblyInfo.cs
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\obj\Debug\netcoreapp3.1\Polymorphism23.csproj.CoreCompileInputs.cache
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\obj\Debug\netcoreapp3.1\Polymorphism23.dll
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\obj\Debug\netcoreapp3.1\Polymorphism23.pdb
+C:\Users\SHAHED\source\repos\New folder\KudvanketCSharp102\Polymorphism23\obj\Debug\netcoreapp3.1\Polymorphism23.genruntimeconfig.cache

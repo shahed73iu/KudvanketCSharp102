@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\StaticConstructorExample\\StaticConstructorExample.csproj": {}
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\StaticConstructorExample\\StaticConstructorExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\StaticConstructorExample\\StaticConstructorExample.csproj": {
+    "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\StaticConstructorExample\\StaticConstructorExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\StaticConstructorExample\\StaticConstructorExample.csproj",
+        "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\StaticConstructorExample\\StaticConstructorExample.csproj",
         "projectName": "StaticConstructorExample",
-        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\StaticConstructorExample\\StaticConstructorExample.csproj",
+        "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\StaticConstructorExample\\StaticConstructorExample.csproj",
         "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\StaticConstructorExample\\obj\\",
+        "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\StaticConstructorExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",

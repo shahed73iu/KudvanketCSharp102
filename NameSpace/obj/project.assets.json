@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\NameSpace\\NameSpace.csproj",
+      "projectUniqueName": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\NameSpace\\NameSpace.csproj",
       "projectName": "NameSpace",
-      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\NameSpace\\NameSpace.csproj",
+      "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\NameSpace\\NameSpace.csproj",
       "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\NameSpace\\obj\\",
+      "outputPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\NameSpace\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,11 +68,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
-              "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamA\\ProjectA.TeamA.csproj"
+            "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
+              "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamA\\ProjectA.TeamA.csproj"
             },
-            "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
-              "projectPath": "C:\\Users\\SHAHED\\source\\repos\\Csharpkudvanket\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
+            "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+              "projectPath": "C:\\Users\\SHAHED\\source\\repos\\New folder\\KudvanketCSharp102\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
             }
           }
         }
